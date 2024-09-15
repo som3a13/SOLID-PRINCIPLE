@@ -160,4 +160,4 @@ Clients should not be forced to depend on interfaces they do not use. This means
 
 # 5. Dependency Inversion
 
-High-level modules should not depend on low-level modules. Both should depend on abstractions (e.g., interfaces). Additionally, abstractions should not depend on details. Details should depend on abstractions.
+High-level modules should not depend on low-level modules. Both should depend on abstractions (e.g., interfaces). Additionally, abstractions should not depend on details. Details should depend on abstractions.2
